@@ -10,7 +10,7 @@
     "react-dom": "^16.10.2",
     "react-scripts": "3.2.0",
     "react-test-renderer": "^16.13.1",
-    "set-value": "^2.0.1"
+    "set-value": "^4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
